@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+temp.py
 # C extensions
 *.so
-
+data.json
+currentSong.txt
+modified_data.json
 # Distribution / packaging
 .Python
 build/
